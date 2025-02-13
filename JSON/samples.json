@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "truck",
+    "file": "samples/Truck_Driving_in_Parking_Structure.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": "0.021"
+  },
+  {
+    "name": "trap_beat",
+    "file": "samples/Trap_Unboxing_-_Jimmy_Fontanez_Doug_Maxwell.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "metal",
+    "file": "samples/Cartoon_Metal_Thunk.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
